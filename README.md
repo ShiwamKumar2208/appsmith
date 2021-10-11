@@ -29,6 +29,10 @@ Turn any datasource into an internal app in minutes. Appsmith lets you drag-and-
 
 </p>
 
+## What is AppSmith?
+
+Appsmith is an open source framework to build admin panels, CRUD apps and workflows. Build everything you need, 10x faster. Try Appsmith Cloud. Self-host Appsmith.
+
 ## Quick Start
 
 The fastest way to start with Appsmith is the cloud-hosted version. When you're ready, you can also host it yourself.
